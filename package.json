@@ -1,0 +1,16 @@
+{
+  "name": "@kobecan/git-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^5.0.1",
+    "dotenv": "^10.0.0"
+  }
+}
